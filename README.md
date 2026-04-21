@@ -1,4 +1,5 @@
 # 360° Business Intelligence & Strategy Platform
+**Live App:** https://olist-business-intelligence-ciwkdnjgr7ooacptk9qh7f.streamlit.app
 
 **Olist Brazilian E-Commerce | End-to-End Analytics & Consulting Project**
 
